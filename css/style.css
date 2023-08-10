@@ -1,0 +1,57 @@
+body {
+    margin: 200px;
+}
+.toilet-text {
+           font-size: 10rem;
+           /* background-color: black; */
+           color: white;
+           
+    /* padding: 100px; */
+}
+.girl-img {
+    background-color: red;
+
+}
+.main {
+   
+}
+.text > *{
+    background-color: green;
+}
+.text {
+    margin-top: 100px;
+}
+.only-for {
+font-size: 10rem;
+
+line-height: 1.5;
+
+
+
+
+}
+.only-for-div {
+margin: 150px 100px 0;
+}
+.girls-and-family {
+font-size: 5rem;
+font-weight: bold;
+line-height: 1.5;
+margin-bottom: 100px;
+}
+.girls-and-family-div {
+margin: 0 50px 100px;
+}
+.notice {
+    border: 30px solid;
+    border-color: yellowgreen;
+    border-style: inset;
+    border-radius: 20px;
+    
+   
+    background-color: ;
+    color: white;
+
+height: 80vh;
+
+}
